@@ -26,4 +26,4 @@ npm run
 - [ ] pass
 - [ ] A
 
-![](memes.png)
+![](https://raw.githubusercontent.com/scripe2022/cse110/newbranch/memes.png)
