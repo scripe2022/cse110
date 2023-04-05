@@ -10,7 +10,7 @@ npm run
 ```
 [Google](https://google.com/)  
 
-[Section Links - top](# CSE110)
+[Section Links - top](#CSE110)
 
 [Relative links](README.md)  
 
