@@ -22,8 +22,8 @@ npm run
 1. 2
 1. 3
 
-- [] enroll
-- [x] pass
-- [x] A
+- [x] enroll
+- [ ] pass
+- [ ] A
 
 ![](memes.png)
